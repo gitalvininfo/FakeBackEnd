@@ -1,0 +1,43 @@
+{
+  "dashboards": [
+    {
+      "id": 99,
+      "username": "Entries",
+      "dashboard": []
+    },
+    {
+      "id": 2,
+      "username": "Trade Performance",
+      "dashboard": []
+    },
+    {
+      "id": 3,
+      "username": "Trade Stats",
+      "dashboard": []
+    },
+    {
+      "id": 4,
+      "username": "Trade Plan",
+      "dashboard": []
+    },
+    {
+      "id": 5,
+      "username": "Strategies/rules",
+      "dashboard": []
+    }
+  ],
+  "widgets": [
+    {
+      "name": "Radar Chart",
+      "identifier": "radar_chart"
+    },
+    {
+      "name": "Doughnut Chart",
+      "identifier": "doughnut_chart"
+    },
+    {
+      "name": "Line Chart",
+      "identifier": "line_chart"
+    }
+  ]
+}
