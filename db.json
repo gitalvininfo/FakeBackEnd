@@ -3,7 +3,35 @@
     {
       "id": 99,
       "username": "Entries",
-      "dashboard": []
+      "dashboard": [
+        {
+          "cols": 4,
+          "rows": 3,
+          "x": 1,
+          "y": 0,
+          "layerIndex": 1,
+          "name": "Open Entries Table",
+          "component": "Open Entries Table"
+        },
+        {
+          "cols": 4,
+          "rows": 3,
+          "x": 6,
+          "y": 0,
+          "layerIndex": 2,
+          "name": "Trade Statistics",
+          "component": "Trade Statistics"
+        },
+        {
+          "cols": 4,
+          "rows": 3,
+          "x": 1,
+          "y": 3,
+          "layerIndex": 3,
+          "name": "Monthly Performance Graph",
+          "component": "Monthly Performance Graph"
+        }
+      ]
     },
     {
       "id": 2,
